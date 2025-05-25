@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "SilkScreen";
+  src: url("../fonts/Silkscreen-Regular") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Silkscreen", "Segoe UI", sans-serif;
+}
+
+#btn-guardar {
+  background-color: #71ae33;
+  transition: all 0.1s;
+  font-size: 1rem;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  padding: 0.3rem 0.6rem;
+  font-family: "Silkscreen", "Segoe UI", sans-serif;
+}
+
+#btn-guardar:hover {
+  background-color: white;
+  color: #3c5721;
+  outline: 6px solid #3c5721;
+}
+
+#btn-cancelar {
+  background-color: #333f5e;
+  transition: all 0.1s;
+  font-size: 1rem;
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  padding: 0.3rem 0.6rem;
+  font-family: "Silkscreen", "Segoe UI", sans-serif;
+}
+
+#btn-cancelar:hover {
+  background-color: white;
+  color: #333f5e;
+  outline: 6px solid #333f5e;
+}
