@@ -1,10 +1,14 @@
 # Gravifloo
 
+![Main](screenshots/1.png)
+
 Gravifloo es un videojuego educativo que combina diversión y aprendizaje, diseñado para enseñar física de manera progresiva a través de niveles con diferentes condiciones gravitacionales. El jugador experimenta cambios reales de gravedad, materiales, proyectiles y estructuras, todo dentro de un entorno interactivo creado con Construct 2.
 
 ---
 
 ## 📘 Mecánica principal
+
+![Principios físicos](screenshots/11.png)
 
 Cada nivel está cuidadosamente diseñado para introducir conceptos físicos de forma gradual. El comportamiento del entorno y los objetos cambia según la gravedad del nivel y los materiales utilizados.
 
@@ -14,6 +18,8 @@ Cada nivel está cuidadosamente diseñado para introducir conceptos físicos de 
 
 ### **Niveles 1–5: Gravedad Terrestre (9.8 m/s²)**
 
+![niveles de gravedad normal](screenshots/2.png)
+
 Los primeros niveles simulan la gravedad clásica de la Tierra. Aquí, el jugador aprende:
 
 * Caída libre
@@ -22,6 +28,8 @@ Los primeros niveles simulan la gravedad clásica de la Tierra. Aquí, el jugado
 * Control básico del personaje
 
 ### **Niveles 6–10: Gravedad Lunar (1.6 m/s²)**
+
+![niveles de gravedad lunar](screenshots/3.png)
 
 A partir del nivel 6, la jugabilidad cambia drásticamente:
 
@@ -40,21 +48,29 @@ Los proyectiles del juego poseen diferentes pesos y comportamientos físicos:
 
 ### **BKB**
 
+![bkb](screenshots/5.png)
+
 * Peso ligero
 * Gran capacidad de rebote
 
 ### **Bomba**
+
+![bomba](screenshots/6.png)
 
 * Peso mayor
 * Capacidad de explotar
 
 ### **Cohete**
 
+![Principios físicos](screenshots/7.png)
+
 * Peso liviano
 * Aceleración elevada
 * Puede volar más rápido que otros proyectiles
 
 ### **Pelotita**
+
+![pelotita](screenshots/4.png)
 
 * Súper ligera
 * Fuerza reducida
@@ -68,17 +84,23 @@ Cada estructura del juego está diseñada para enseñar resistencia, colisión y
 
 ### **Madera**
 
+![Principios físicos](screenshots/8.png)
+
 * Liviana y frágil
 * Fácil de romper o mover
 * Ideal para comprender fuerzas básicas
 
 ### **Piedra**
 
+![Principios físicos](screenshots/10.png)
+
 * Resistencia intermedia
 * Más sólida que la madera
 * Puede fracturarse bajo ciertas condiciones
 
 ### **Metal**
+
+![Principios físicos](screenshots/9.png)
 
 * El material más resistente del juego
 * Soporta grandes cargas e impactos
@@ -138,12 +160,6 @@ Estará disponible en:
 
 * **GitHub** (código fuente)
 * **Netlify** (versión jugable en línea)
-
----
-
-## 📜 Licencia
-
-Puedes agregar una licencia como MIT, GPL o CC según lo que prefieras para el código y los recursos del juego.
 
 ---
 
