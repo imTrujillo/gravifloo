@@ -163,5 +163,9 @@ Estará disponible en:
 
 ---
 
-¡Gracias por jugar Gravifloo!
-Experimenta, aprende y disfruta la física como nunca antes.
+## 👥 Creadores
+
+1. Ricardo Arévalo → https://github.com/Riahrell
+2. Luis Martínez → https://github.com/BlckXI
+3. Josué Melara → https://github.com/JosuMelara21
+4. Steven Trujillo → https://github.com/imTrujillo
